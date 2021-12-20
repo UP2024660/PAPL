@@ -1,0 +1,10 @@
+Alice Smith Maths 67 89 87 77 60 51 
+John Jones Computing 46 38 28 34 12 47 45
+Sally Edwards Maths 34 56 34 36 50 45 44 42
+Andrew Wiles Maths 98 89 99 100 87 95
+Greta Green Computing 45 56 53 56 55 68 88 10
+Alan Armstrong Physics 0 5 0 0 0
+Roger Penrose Physics 97 89 77 96 96 87 69
+Clare Thompson Computing 98 77 65 49 70 90 
+Maggie Aderin Physics 97 99 90 99 86
+William Gates Computing 88 70 30 0 0 0
